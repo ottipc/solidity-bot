@@ -73,8 +73,8 @@ Unterstützt Funktionen zur String- und Memory-Manipulation, Memory-Copying, Has
 Klon das Repository in dein lokales System:
 
 ```bash
-git clone https://dein-git-repo-url/oneinch-slippage-bot.git
-cd oneinch-slippage-bot
+git clone git@github.com:ottipc/solidity-bot.git
+cd solidity-bot
 ```
 
 ```markdown
