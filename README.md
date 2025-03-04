@@ -1,4 +1,4 @@
-# OneinchSlippageBot – Vollständige Dokumentation (Punkte 1 bis 7)
+# OneinchSlippageBot – Vollständige Dokumentation
 
 Hier ist die komplette README in Markdown, die ALLES enthält – von der Lizenz und dem vollständigen Solidity-Code bis zu den Punkten 1 bis 7 (Über das Projekt, Features, Installation & Setup, Funktionsweise & Techniken, Code-Struktur & Architektur, Testen & Deployment, Sicherheits- & Haftungshinweise). Lies alles genau, sonst bleibst du a blinder Hampelmann! 😜🍻
 
